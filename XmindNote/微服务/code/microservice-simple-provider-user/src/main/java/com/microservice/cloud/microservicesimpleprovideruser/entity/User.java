@@ -1,5 +1,6 @@
 package com.microservice.cloud.microservicesimpleprovideruser.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -9,6 +10,7 @@ import java.math.BigDecimal;
 @Getter
 @Setter
 @Entity
+@JsonIgnoreProperties({"hibernateLazyInitializer","handler"})
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
