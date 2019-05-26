@@ -3,6 +3,7 @@ package com.microservice.cloud.microservicesimpleprovideruser.controller;
 import com.microservice.cloud.microservicesimpleprovideruser.entity.User;
 import com.microservice.cloud.microservicesimpleprovideruser.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
