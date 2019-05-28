@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+    <script src="./main.js"></script>
+</head>
+<body>
+
+<!--只写height就只有垂直滚动条，只写width就只有水平滚动条,都不写没有效果。
+还有这里overflow设置为auto,也就说是如果你的页面高度大于300px就会出现滚动条，
+小于300px就没有滚动条。同理，如果宽度大于100px出现滚动条，小于就没有。-->
+<div style="width:200px; overflow: auto">
+    <canvas id="myCanvas" width="300" height="600" style="border:1px solid #000000;"></canvas>
+</div>
+
+
+</body>
+</html>
