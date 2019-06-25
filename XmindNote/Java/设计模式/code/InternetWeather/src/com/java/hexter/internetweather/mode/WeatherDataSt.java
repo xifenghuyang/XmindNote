@@ -34,7 +34,7 @@ public class WeatherDataSt implements Subject{
 		return mHumidity;
 		
 	}
-	
+
 	public void setData(float mTemperatrue,float mPressure,float mHumidity)
 	{
 		this.mTemperatrue=mTemperatrue;

@@ -5,7 +5,8 @@ import java.util.Observer;
 
 import com.java.hexter.internetweather.jv.WeatherData.Data;
 
-
+// 公告板：Observer
+// java内置的oberver中只有一个update接口
 public class CurrentConditions implements Observer {
 	
 	private float mTemperatrue;

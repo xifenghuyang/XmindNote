@@ -1,10 +1,6 @@
 package com.java.hexter.internetweather.jv;
 
-
-
-
-
-
+// java内置观察者，是最晚注册，最先通知
 public class InternetWeather {
 	public static void main(String[] args) {
 		CurrentConditions mCurrentConditions;
