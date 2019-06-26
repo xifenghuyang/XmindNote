@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b39120bf-55a6-4491-8fec-6e127580433c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/src/com/java/hexter/internetweather/jv/CurrentConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/InternetWeather/src/com/java/hexter/internetweather/jv/CurrentConditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/src/com/java/hexter/internetweather/jv/InternetWeather.java" beforeDir="false" afterPath="$PROJECT_DIR$/InternetWeather/src/com/java/hexter/internetweather/jv/InternetWeather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/src/com/java/hexter/internetweather/jv/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/InternetWeather/src/com/java/hexter/internetweather/jv/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/src/com/java/hexter/internetweather/mode/WeatherDataSt.java" beforeDir="false" afterPath="$PROJECT_DIR$/InternetWeather/src/com/java/hexter/internetweather/mode/WeatherDataSt.java" afterDir="false" />
-    </list>
+    <list default="true" id="b39120bf-55a6-4491-8fec-6e127580433c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +188,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="652" />
     <option name="y" value="-23" />
     <option name="width" value="428" />
@@ -404,16 +398,15 @@
       <workItem from="1561223974645" duration="2315000" />
       <workItem from="1561308478939" duration="2460000" />
       <workItem from="1561388809394" duration="5411000" />
-      <workItem from="1561471706173" duration="3942000" />
+      <workItem from="1561471706173" duration="4268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14128000" />
+    <option name="totallyTimeSpent" value="14454000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5840886" visible="true" weight="0.1883378" />
       <window_info id="Structure" order="1" sideWeight="0.41591138" side_tool="true" weight="0.307243" />
@@ -424,7 +417,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2407932" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2407932" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
