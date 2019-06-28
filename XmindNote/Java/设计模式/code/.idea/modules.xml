@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InternetWeather/InternetWeather.iml" filepath="$PROJECT_DIR$/InternetWeather/InternetWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/StimulateDuckPro/StimulateDuckPro.iml" filepath="$PROJECT_DIR$/StimulateDuckPro/StimulateDuckPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agentmode/agentmode.iml" filepath="$PROJECT_DIR$/agentmode/agentmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
     </modules>
   </component>
