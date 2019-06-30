@@ -1,6 +1,7 @@
 package com.java.jikexueyuan.agentmode.candymachinermi;
 
 import java.rmi.Naming;
+import java.util.List;
 
 import com.java.jikexueyuan.agentmode.candymachine.CandyMachine;
 import com.java.jikexueyuan.agentmode.rmi.MyRemote;
