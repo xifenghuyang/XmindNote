@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/decoratorPattern/CoffeeBar.iml" filepath="$PROJECT_DIR$/decoratorPattern/CoffeeBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singletonPattern/CoffeeBar.iml" filepath="$PROJECT_DIR$/singletonPattern/CoffeeBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/InternetWeather/InternetWeather.iml" filepath="$PROJECT_DIR$/InternetWeather/InternetWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/StimulateDuckPro/StimulateDuckPro.iml" filepath="$PROJECT_DIR$/StimulateDuckPro/StimulateDuckPro.iml" />
       <module fileurl="file://$PROJECT_DIR$/agentmode/agentmode.iml" filepath="$PROJECT_DIR$/agentmode/agentmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factoryPattern/pizzastore.iml" filepath="$PROJECT_DIR$/factoryPattern/pizzastore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
