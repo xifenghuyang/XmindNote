@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/commandMode/CommandMode.iml" filepath="$PROJECT_DIR$/commandMode/CommandMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/InternetWeather/InternetWeather.iml" filepath="$PROJECT_DIR$/InternetWeather/InternetWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/StimulateDuckPro/StimulateDuckPro.iml" filepath="$PROJECT_DIR$/StimulateDuckPro/StimulateDuckPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterPattern/adaptermode.iml" filepath="$PROJECT_DIR$/adapterPattern/adaptermode.iml" />
       <module fileurl="file://$PROJECT_DIR$/agentmode/agentmode.iml" filepath="$PROJECT_DIR$/agentmode/agentmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/factoryPattern/pizzastore.iml" filepath="$PROJECT_DIR$/factoryPattern/pizzastore.iml" />
