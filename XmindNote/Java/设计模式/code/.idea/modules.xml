@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/singletonPattern/CoffeeBar.iml" filepath="$PROJECT_DIR$/singletonPattern/CoffeeBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/commandMode/CommandMode.iml" filepath="$PROJECT_DIR$/commandMode/CommandMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facademode/FacadeMode.iml" filepath="$PROJECT_DIR$/facademode/FacadeMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/InternetWeather/InternetWeather.iml" filepath="$PROJECT_DIR$/InternetWeather/InternetWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/StimulateDuckPro/StimulateDuckPro.iml" filepath="$PROJECT_DIR$/StimulateDuckPro/StimulateDuckPro.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapterPattern/adaptermode.iml" filepath="$PROJECT_DIR$/adapterPattern/adaptermode.iml" />
