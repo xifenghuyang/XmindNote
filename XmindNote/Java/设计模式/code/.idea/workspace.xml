@@ -2,138 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39120bf-55a6-4491-8fec-6e127580433c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/statemode/statemode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/AbnormalSemaphoreSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/CyclicBarrierSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/LatchSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/UsualSemaphoreSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../17.线程.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../17.线程.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/CurrentConditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/InternetWeather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/jv/CurrentConditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/jv/ForcastConditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/jv/InternetWeather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/jv/WeatherData$Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/jv/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/mode/CurrentConditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/mode/ForcastConditions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/mode/InternetWeather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/mode/WeatherDataSt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/observer/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetWeather/bin/com/java/hexter/internetweather/observer/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/StimulateDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/duck/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/duck/GreenHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/duck/RedHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/flybehavior/BadFlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/flybehavior/FlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/flybehavior/GoodFlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/flybehavior/NoFlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/oo/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/oo/GreenHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/oo/RedHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/oo/StimulateDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/oo/StoneDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/quackbehavior/GaGaQuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/quackbehavior/GeGeQuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/quackbehavior/NoQuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StimulateDuckPro/bin/com/java/hexter/stimulateduck/quackbehavior/QuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapterPattern/bin/com/java/jikexueyuan/adaptermode/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapterPattern/bin/com/java/jikexueyuan/adaptermode/adapter/EnumerationIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapterPattern/bin/com/java/jikexueyuan/adaptermode/adapter/TurkeyAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapterPattern/bin/com/java/jikexueyuan/adaptermode/adapter/TurkeyAdapter2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapterPattern/bin/com/java/jikexueyuan/adaptermode/duck/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapterPattern/bin/com/java/jikexueyuan/adaptermode/duck/GreenHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapterPattern/bin/com/java/jikexueyuan/adaptermode/turkey/Turkey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapterPattern/bin/com/java/jikexueyuan/adaptermode/turkey/WildTurkey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachine/CandyMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachine/HasCoin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachine/OnReadyState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachine/SoldOutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachine/SoldState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachine/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachine/WinnerState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachinermi/CandyMachineRemote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachinermi/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachinermi/Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/candymachinermi/RemoteMainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/dyn/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/dyn/MatchService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/dyn/NonOwnerInvocationHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/dyn/OwnerInvocationHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/dyn/PersonBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/dyn/PersonBeanImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/rmi/MyRemote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/rmi/MyRemoteClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentmode/bin/com/java/jikexueyuan/agentmode/rmi/MyRemoteImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/Control.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/ControlTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/TraditionControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/CommandModeControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/ControlTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/LightOffCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/LightOnCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/MarcoCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/NoCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/StereoAddVolCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/StereoOffCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/StereoOnCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/command/StereoSubVolCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/device/Light.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandMode/bin/com/java/jikexueyuan/commandmode/device/Stereo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facademode/bin/com/java/jikexueyuan/facademode/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facademode/bin/com/java/jikexueyuan/facademode/hometheater/DVDPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facademode/bin/com/java/jikexueyuan/facademode/hometheater/HomeTheaterFacade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facademode/bin/com/java/jikexueyuan/facademode/hometheater/Popcorn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facademode/bin/com/java/jikexueyuan/facademode/hometheater/Projector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facademode/bin/com/java/jikexueyuan/facademode/hometheater/Screen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facademode/bin/com/java/jikexueyuan/facademode/hometheater/Stereo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facademode/bin/com/java/jikexueyuan/facademode/hometheater/TheaterLights.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/OrderPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/PizzaStroe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/absfactory/AbsFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/absfactory/LDFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/absfactory/NYFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/absfactory/OrderPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/absfactory/PizzaStroe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/method/LDOrderPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/method/NYOrderPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/method/OrderPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/method/PizzaStroe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/CheesePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/ChinesePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/GreekPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/LDCheesePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/LDPepperPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/NYCheesePizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/NYPepperPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/PepperPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/pizza/Pizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/simplefactory/OrderPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/simplefactory/PizzaStroe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factoryPattern/bin/com/java/jikexueyuan/pizzastore/simplefactory/SimplePizzaFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iteratormode/bin/com/java/jikexueyuan/iteratormode/java/CafeMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/iteratormode/bin/com/java/jikexueyuan/iteratormode/java/CafeMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonPattern/bin/com/java/jikexueyuan/singleton/ChocolateFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonPattern/bin/com/java/jikexueyuan/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonPattern/bin/com/java/jikexueyuan/singleton/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonPattern/bin/com/java/jikexueyuan/singleton/Test$Abc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonPattern/bin/com/java/jikexueyuan/singleton/Test$Cbd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/singletonPattern/bin/com/java/jikexueyuan/singleton/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/srctest/production/templatemode1/com/jike/hotdrink/HotDrink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/srctest/production/templatemode1/com/jike/hotdrink/HotDrinkTemple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/srctest/production/templatemode1/com/jike/hotdrink/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/srctest/production/templatemode1/com/jike/hotdrink/TeaWithHook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/srctest/production/templatemode1/com/jike/templatemode/Coffee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/srctest/production/templatemode1/com/jike/templatemode/HotDrink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/srctest/production/templatemode1/com/jike/templatemode/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/srctest/production/templatemode1/com/jike/templatemode/Tea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../设计模式.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA核心.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA核心.xmind" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +52,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/OnReadyState.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="400">
+                <state relative-caret-position="625">
                   <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
                 </state>
               </provider>
@@ -191,7 +61,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/SoldOutState.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-325">
+                <state relative-caret-position="50">
                   <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
                 </state>
               </provider>
@@ -200,7 +70,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/SoldState.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-325">
+                <state relative-caret-position="50">
                   <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
                 </state>
               </provider>
@@ -210,11 +80,7 @@
             <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/WinnerState.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="200">
-                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-                  <folding>
-                    <element signature="e#190#191#0" expanded="true" />
-                    <element signature="e#231#232#0" expanded="true" />
-                  </folding>
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
                 </state>
               </provider>
             </entry>
@@ -324,7 +190,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="275" />
-    <option name="y" value="-24" />
+    <option name="y" value="-25" />
     <option name="width" value="1220" />
     <option name="height" value="1050" />
   </component>
@@ -497,11 +363,12 @@
       <workItem from="1562984105254" duration="2817000" />
       <workItem from="1563029564613" duration="2484000" />
       <workItem from="1563032504658" duration="610000" />
+      <workItem from="1563117836161" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70506000" />
+    <option name="totallyTimeSpent" value="71103000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,17 +380,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58188826" visible="true" weight="0.15817694" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58188826" visible="true" weight="0.16018766" />
       <window_info id="Structure" order="1" sideWeight="0.41811174" side_tool="true" weight="0.17292225" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5028329" />
@@ -537,6 +402,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -897,45 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/OnReadyState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/SoldOutState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-325">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/SoldState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-325">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/WinnerState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/CandyMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1075">
@@ -943,10 +770,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/OnReadyState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
