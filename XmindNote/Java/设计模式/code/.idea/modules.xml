@@ -277,6 +277,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bridgems/bridgems.iml" filepath="$PROJECT_DIR$/bridgems/bridgems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/composemode/composemode.iml" filepath="$PROJECT_DIR$/composemode/composemode.iml" />
       <module fileurl="file://$PROJECT_DIR$/iteratormode/iteratormode.iml" filepath="$PROJECT_DIR$/iteratormode/iteratormode.iml" />

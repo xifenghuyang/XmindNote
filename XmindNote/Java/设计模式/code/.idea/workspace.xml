@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39120bf-55a6-4491-8fec-6e127580433c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../17.线程.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../17.线程.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JAVA核心.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA核心.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgems/bridgems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../设计模式.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式.xmind" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,32 +17,59 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.53821653">
+    <splitter split-orientation="horizontal" split-proportion="0.49019608">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/CandyMachine.java">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/TvControl.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1075">
-                  <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+                <state relative-caret-position="250">
+                  <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/TvControl.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="275">
+                  <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/newTvControl.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/MainTest.java">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/MainTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="50">
-                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                <state relative-caret-position="25">
+                  <caret line="15" column="36" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/State.java">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/Control.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/SonyTvControl.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="100">
-                  <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+                  <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -48,18 +77,30 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/OnReadyState.java">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/SonyTvControl.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="625">
-                  <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+                <state relative-caret-position="307">
+                  <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+                  <folding>
+                    <element signature="method#Onoff#0;class#SonyTvControl#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/SoldOutState.java">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/SonyControl.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/LGControl.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="50">
                   <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -68,19 +109,19 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/SoldState.java">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/MainTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="50">
-                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                <state relative-caret-position="375">
+                  <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/WinnerState.java">
+            <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/TvControlabs.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="200">
-                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                <state relative-caret-position="100">
+                  <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
@@ -125,12 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/factoryPattern/src/com/java/jikexueyuan/pizzastore/PizzaStroe.java" />
-        <option value="$PROJECT_DIR$/factoryPattern/src/com/java/jikexueyuan/pizzastore/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/factoryPattern/src/com/java/jikexueyuan/pizzastore/simplefactory/SimplePizzaFactory.java" />
-        <option value="$PROJECT_DIR$/factoryPattern/src/com/java/jikexueyuan/pizzastore/simplefactory/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/factoryPattern/src/com/java/jikexueyuan/pizzastore/absfactory/AbsFactory.java" />
-        <option value="$PROJECT_DIR$/factoryPattern/src/com/java/jikexueyuan/pizzastore/method/OrderPizza.java" />
         <option value="$PROJECT_DIR$/commandMode/src/com/java/jikexueyuan/commandmode/device/Light.java" />
         <option value="$PROJECT_DIR$/commandMode/src/com/java/jikexueyuan/commandmode/device/Stereo.java" />
         <option value="$PROJECT_DIR$/commandMode/src/com/java/jikexueyuan/commandmode/Control.java" />
@@ -176,6 +211,12 @@
         <option value="$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/CandyMachine.java" />
         <option value="$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/State.java" />
         <option value="$PROJECT_DIR$/statemode/src/com/java/jikexueyuan/statemode/state/WinnerState.java" />
+        <option value="$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/Control.java" />
+        <option value="$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/SonyControl.java" />
+        <option value="$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/TvControl.java" />
+        <option value="$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/SonyTvControl.java" />
+        <option value="$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/MainTest.java" />
+        <option value="$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/MainTest.java" />
       </list>
     </option>
   </component>
@@ -188,7 +229,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="275" />
     <option name="y" value="-25" />
     <option name="width" value="1220" />
@@ -210,35 +251,43 @@
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="statemode" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="statemode" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgems" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="statemode" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgems" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="statemode" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="statemode" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgems" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="statemode" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgems" type="462c0819:PsiDirectoryNode" />
+              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bridgems" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +295,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/statemode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bridgems" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -364,11 +413,12 @@
       <workItem from="1563029564613" duration="2484000" />
       <workItem from="1563032504658" duration="610000" />
       <workItem from="1563117836161" duration="597000" />
+      <workItem from="1563381589669" duration="2138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71103000" />
+    <option name="totallyTimeSpent" value="73241000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,9 +430,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58188826" visible="true" weight="0.16018766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58188826" visible="true" weight="0.17962466" />
       <window_info id="Structure" order="1" sideWeight="0.41811174" side_tool="true" weight="0.17292225" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -418,97 +469,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/adapterPattern/src/com/java/jikexueyuan/adaptermode/adapter/EnumerationIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facademode/src/com/java/jikexueyuan/facademode/hometheater/Popcorn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facademode/src/com/java/jikexueyuan/facademode/hometheater/DVDPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facademode/src/com/java/jikexueyuan/facademode/hometheater/Projector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facademode/src/com/java/jikexueyuan/facademode/hometheater/Stereo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facademode/src/com/java/jikexueyuan/facademode/hometheater/TheaterLights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facademode/src/com/java/jikexueyuan/facademode/hometheater/HomeTheaterFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding>
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facademode/src/com/java/jikexueyuan/facademode/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facademode/src/com/java/jikexueyuan/facademode/hometheater/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iteratormode/src/com/java/jikexueyuan/iteratormode/iterator/DinerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3825">
-          <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -809,6 +769,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/LGTvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/SonyControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/SonyTvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/LGControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/TvControlabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/TvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/TvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/newTvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
