@@ -1,6 +1,7 @@
 package com.java.jikexueyuan.mediator;
 
-public class Alarm extends Colleague {
+public class
+Alarm extends Colleague {
 
 	public Alarm(Mediator mediator, String name) {
 		super(mediator, name);

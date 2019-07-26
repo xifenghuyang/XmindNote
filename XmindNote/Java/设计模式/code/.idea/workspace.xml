@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39120bf-55a6-4491-8fec-6e127580433c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mediator/mediator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memento/memento.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JAVA核心.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA核心.xmind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Alarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Alarm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../设计模式.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式.xmind" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,63 +19,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5932746">
+    <splitter split-orientation="horizontal" split-proportion="0.30016053">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Mediator.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Colleague.java">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MementoIF.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="150">
-                  <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#273#274#0" expanded="true" />
-                    <element signature="e#300#301#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/CoffeeMachine.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="550">
-                  <caret line="24" column="19" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/TV.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="50">
-                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Curtains.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="50">
-                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/MainTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="125">
-                  <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+                  <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -83,20 +35,54 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/ConcreteMediator.java">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MementoCaretaker.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="292">
-                  <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+                <state relative-caret-position="6">
+                  <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+                  <folding>
+                    <element signature="e#186#187#0" expanded="true" />
+                    <element signature="e#238#239#0" expanded="true" />
+                    <element signature="e#288#289#0" expanded="true" />
+                    <element signature="e#322#323#0" expanded="true" />
+                    <element signature="e#404#405#0" expanded="true" />
+                    <element signature="e#445#446#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Alarm.java">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/Originator.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="50">
-                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                <state relative-caret-position="556">
+                  <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#866#867#0" expanded="true" />
+                    <element signature="e#910#911#0" expanded="true" />
+                    <element signature="e#933#934#0" expanded="true" />
+                    <element signature="e#954#955#0" expanded="true" />
+                    <element signature="e#996#997#0" expanded="true" />
+                    <element signature="e#1023#1024#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/Originator2.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-425">
+                  <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MainTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
                 </state>
               </provider>
             </entry>
@@ -142,11 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/iteratormode/src/com/java/jikexueyuan/iteratormode/java/MainTest.java" />
-        <option value="$PROJECT_DIR$/test/src/DeadLockSample.java" />
-        <option value="$PROJECT_DIR$/composemode/src/com/java/jikexueyuan/composemode/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/composemode/src/com/java/jikexueyuan/composemode/CakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/composemode/src/com/java/jikexueyuan/composemode/MenuItem.java" />
         <option value="$PROJECT_DIR$/composemode/src/com/java/jikexueyuan/composemode/SubMenu.java" />
         <option value="$PROJECT_DIR$/composemode/src/com/java/jikexueyuan/composemode/NullIterator.java" />
         <option value="$PROJECT_DIR$/composemode/src/com/java/jikexueyuan/composemode/MenuComponent.java" />
@@ -193,6 +174,11 @@
         <option value="$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Mediator.java" />
         <option value="$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/ConcreteMediator.java" />
         <option value="$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Colleague.java" />
+        <option value="$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Alarm.java" />
+        <option value="$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MementoIF.java" />
+        <option value="$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MementoCaretaker.java" />
+        <option value="$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/Originator.java" />
+        <option value="$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MainTest.java" />
       </list>
     </option>
   </component>
@@ -205,9 +191,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="306" />
-    <option name="y" value="111" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="305" />
+    <option name="y" value="110" />
     <option name="width" value="1220" />
     <option name="height" value="1050" />
   </component>
@@ -217,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,26 +215,25 @@
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="memento" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="memento" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="memento" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="memento" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +241,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mediator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/memento" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -286,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest (2)">
+  <component name="RunManager" selected="Application.MainTest (3)">
     <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.jikexueyuan.interpreter.MainTest" />
       <module name="interpreter" />
@@ -313,12 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.jikexueyuan.flyweight.MainTest" />
-      <module name="flyweight" />
+    <configuration name="MainTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.jikexueyuan.memento.MainTest" />
+      <module name="memento" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.jikexueyuan.flyweight.*" />
+          <option name="PATTERN" value="com.java.jikexueyuan.memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest (3)" />
         <item itemvalue="Application.MainTest (2)" />
         <item itemvalue="Application.MainTest (1)" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.MainTest (5)" />
-        <item itemvalue="Application.MainTest (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -397,11 +383,12 @@
       <workItem from="1563726399294" duration="3398000" />
       <workItem from="1563900120272" duration="2317000" />
       <workItem from="1563983335369" duration="2612000" />
+      <workItem from="1564159534963" duration="1924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87772000" />
+    <option name="totallyTimeSpent" value="89696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,9 +401,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58188826" visible="true" weight="0.16286863" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58188826" visible="true" weight="0.16487935" />
       <window_info id="Structure" order="1" sideWeight="0.41811174" side_tool="true" weight="0.17292225" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,41 +438,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/SonyControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/control/LGControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/TvControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bridgems/src/com/java/jikexueyuan/bridgems/bridge/TvControlabs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/builderms/src/com/java/jikexueyuan/builderms/vacation/VacationDay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -773,20 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/ConcreteMediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Alarm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Mediator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -830,6 +767,71 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/ConcreteMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mediator/src/com/java/jikexueyuan/mediator/Alarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/Originator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding>
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/Originator2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MementoCaretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memento/src/com/java/jikexueyuan/memento/MementoIF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
