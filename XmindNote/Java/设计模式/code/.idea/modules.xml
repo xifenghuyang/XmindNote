@@ -290,6 +290,7 @@
       <module fileurl="file://$PROJECT_DIR$/protomode/protomode.iml" filepath="$PROJECT_DIR$/protomode/protomode.iml" />
       <module fileurl="file://$PROJECT_DIR$/statemode/statemode.iml" filepath="$PROJECT_DIR$/statemode/statemode.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visitor/visitor.iml" filepath="$PROJECT_DIR$/visitor/visitor.iml" />
     </modules>
   </component>
   <component name="ProjectView">
