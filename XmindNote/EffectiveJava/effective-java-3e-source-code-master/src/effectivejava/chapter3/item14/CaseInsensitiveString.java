@@ -26,6 +26,7 @@ public final class CaseInsensitiveString
     }
 
     // Using an existing comparator to make a class comparable
+    // 使用一个现实的comparator
     public int compareTo(CaseInsensitiveString cis) {
         return String.CASE_INSENSITIVE_ORDER.compare(s, cis.s);
     }

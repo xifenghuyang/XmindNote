@@ -49,3 +49,19 @@ java语言支持四种类型：
 ### 8. 避免使用终结方法( finalizer )和清除方法( cleaner )
 
 ### 9. try-with-resources 优先于 try-finally
+
+## 第三章 对于所有对象都通用的方法
+
+### 10. 覆盖equals时请遵守通用约定
+
+### 11. 覆盖equals时总要覆盖hashCode
+
+### 12. 始终要覆盖toString
+
+### 13. 谨慎地覆盖clone
+
+### 14. 考虑实现Comparable接口
+
+### 
+
+### 
