@@ -373,7 +373,45 @@ java.util.function共有43个接口，其中6个基础接口。基础接口作�
 
 ### 45. 谨慎使用Stream
 
+### 46. 优先选择Stream中无副作用的函数
 
+Stream并不只是一个API，它是一种基于函数编程的模型。
+
+为了利用速度、并行性，需要采用Stream范性。
+
+Stream范型最重要的是把计算构成一系列变型，每一级结果尽可能靠近上一级结果的纯函数。
+
+**纯函数**:结果只取决于输入的函数 
+
+Stream中forEach操作应该只用于报告Stream计算的结果，而不是执行计算。
+
+Stream的collectors API包含36种方法：
+
+1. 分类器groupingBy、
+2. 收集器 toList、toSet、toCollection
+3. 收集器 toMap、toConcurrentMap
+4. 收集器 joining
+
+### 47. Stream要优先用Collection作为返回类型
+
+### 48. 谨慎使用Stream并行
+
+并行历史
+
+1. 1996年，java发布。通过同步和wait/notify内置了对线程支持。
+2. java5 引入 java.util.concurrent类库，提供并行集合、执行者框架。
+3. java7 引入fork-join包，处理并行分解的高性能框架。
+4. java8 引入Stream，调用parallel方法实现并行处理。
+
+千万不要任意的并行Stream pipeline，如果源头来自Stream.iterator,或者使用了中间操作的limit，那么并行pipeline也不可能提升性能。
+
+分割迭代器spliterator
+
+引用局部性locality of reference
+
+并行Stream不仅可能降低性能，包括活性失败，还可能导致结果出错，以及难以预计的行为。
+
+通常，程序中所有的并行Stream pipeline都是在一个通用的fork-join池中运行的。只要有一个pipeline运行异常，都会损害系统中其他不相关部分的性能。
 
 
 
