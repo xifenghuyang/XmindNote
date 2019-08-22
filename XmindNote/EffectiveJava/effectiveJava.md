@@ -486,6 +486,47 @@ Optional<T>类表示一个不可变容器，可以存放单个非null的T引用�
 
 @implSpec注释，描述方法及其子类之间的约定，为继承设计类时。
 
+## 第九章 通用编程
+
+### 57. 将局部变量的作用域最小化
+
+在第一次要使用的地方进行声明。
+
+几乎每个局部变量的声明都应该包含一个初始化表达式。
+
+将局部变量的作用域最小化的方法是，使方法小而集中。
+
+### 58. for-each循环优先于传统的for循环
+
+通过完全隐藏迭代器或者索引变量，避免了混乱和出错的可能。
+
+三种情况无法使用for-each循环：
+
+1. 解构过滤。若果需要遍历集合，并**删除选定的元素**，就需要使用显示的迭代器。
+2. 转换。如果需要遍历列表或者数组，并**取代它的部分或者全部元素值**。
+3. 平行迭代。如果需要并行地遍历多个集合，需要显式地控制迭代器或者索引变量。
+
+### 59. 了解和使用类库
+
+使用标准类库
+
+随机数生成器：ThreadLocalRandom。Fork Join Pool和并行Stream中使用SplittableRandom
+
+应该把时间花在应用程序上，而不是底层的细节上。
+
+java.lang 、 java.util 、java.io 及子包中的内容。
+
+集合框架：Collections Framework、Stream类库
+
+学习使用Google Guava
+
+```xml
+<dependency>
+    <groupId>com.google.guava</groupId>
+    <artifactId>guava</artifactId>
+    <version>18.0</version>
+</dependency>
+```
 
 
 
