@@ -640,9 +640,9 @@ ConcurrentModificationException、UnsupportedOperationException
 
 ### 73. 抛出与抽象对应的异常
 
-![](C:\Users\admin\Desktop\pbW7K5S.jpg)
+![](.\pbW7K5S.jpg)
 
-
+图片
 
 
 
