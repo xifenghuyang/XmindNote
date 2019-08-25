@@ -624,7 +624,23 @@ Java提供了三种可抛出异常：
 
 ### 71. 避免不必要的使用受检异常
 
+### 72. 优先使用标准异常
 
+异常类越少，意味着内存占用越小，装载这些类的时间开销也越少。
+
+经常重用的异常：IllegalArgumentException、 IllegalStateException（在某个对象被正确初始化之前）。
+
+所有错误的方法调用都可以被归结为非法参数或者非法状态。
+
+ConcurrentModificationException、UnsupportedOperationException
+
+不要直接重用Exception、RuntimeException、Throwable、Error，对待这些类要像对待抽象类一样。
+
+如果希望增加更多的失败—捕获信息，可以放心地子类化标准异常，但要记住异常是可序列化的，因此没有正常理由，不要自己编写异常类。
+
+### 73. 抛出与抽象对应的异常
+
+![](C:\Users\admin\Desktop\pbW7K5S.jpg)
 
 
 
