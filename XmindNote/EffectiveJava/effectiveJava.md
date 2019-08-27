@@ -749,9 +749,29 @@ java.util.concurrent中并发工具分为三类：
 
 为了避免客户端拒绝服务攻击，应该使用一个私有锁对象来代替同步的方法(隐含一个公有可访问锁)。从而把锁对象封装在它所同步的对象中。将lock域的可访问性减到最小，应该始终声明为final。
 
-私有锁对象模式只能用在无条件的线程安全类上。有条件的线程安全类，必须说明它的客户端程序必须获得哪吧锁。
+私有锁对象模式只能用在无条件的线程安全类上。有条件的线程安全类，必须说明它的客户端程序必须获得哪把锁。
 
+### 83. 慎用延迟初始化
 
+除非绝对必要，否则不要延迟初始化。延迟初始化实际上降低了性能。正常初始化优于延迟初始化。
+
+lazy initialization holder class模式：定义一个静态内部类和静态方法。延迟加载FiledType类。
+
+```java
+private static class FieldHolder {
+     static final FieldType field = computeFieldValue();
+}
+
+private static FieldType getField() { return FieldHolder.field; }
+
+private static FieldType computeFieldValue() {
+     return new FieldType();
+}
+```
+
+如果处于性能的考虑而需要对实例域使用延迟初始化，就使用双重检查模式（double check idiom）。
+
+必须要使用演示初始化方法时，对于实例域，使用双重检查模式；对于静态域，则使用lazy initialization holder calss idiom。对于可以接受重复初始化的实例域，也可以考虑使用单重检查模式（single-check idiom）.
 
 
 
