@@ -773,9 +773,27 @@ private static FieldType computeFieldValue() {
 
 必须要使用演示初始化方法时，对于实例域，使用双重检查模式；对于静态域，则使用lazy initialization holder calss idiom。对于可以接受重复初始化的实例域，也可以考虑使用单重检查模式（single-check idiom）.
 
+### 84. 不要依赖于线程调度器
 
+确保可运行线程的平均数量不明显多于处理器的数量。
 
+## 第十二章 序列化
 
+**对象序列化Object serialization**，java框架，将对象编码成字节流（序列化），并从字节流中重新构建对象（反序列化）。
+
+### 85. 其他方法优先于java序列化
+
+将不被信任的流进行反序列化，可能导致远程代码执行（Remote code Execution，RCE）、拒绝服务（Denial of Service，Dos）或其他一系列攻击。
+
+避免序列化攻击的最佳方式是永远不要反序列化任何东西。在新编写的任何新系统中都没有理由再使用Java序列化。
+
+最前沿的跨平台结构化数据表示法是JSON和Protocol Buffers。
+
+永远不要反序列化不被信任的数据。无法避免，就用java9中反序列化过滤功能。
+
+### 86. 谨慎地实现Serializable接口
+
+通常情况下，对象是利用构造器来创建的，序列化机制是一种语言之外的对象创建机制，反序列化机制是一个隐藏的构造器。
 
 
 
