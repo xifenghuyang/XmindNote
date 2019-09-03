@@ -13,7 +13,7 @@ import java.util.Set;
  * 2. 空间复杂度：O(n),取决于添加到哈希表中的元素数目，最多添加n个元素。
  */
 
-public class goodMethod {
+public class GoodMethod {
     // 方法二：Set集合判重法
 //    public boolean hasCycle(ListNode head) {
 //        Set linkSet = new HashSet();

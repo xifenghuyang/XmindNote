@@ -8,7 +8,7 @@ package LeetCode.LC141;
  * 1. 时间复杂度 O(n)，空间复杂度O(1)
  */
 
-public class betterMethod {
+public class BetterMethod {
 //    // 方法三：龟兔赛跑双指针
 //    public boolean hasCycle(ListNode head) {
 //        ListNode quickPoint = head;

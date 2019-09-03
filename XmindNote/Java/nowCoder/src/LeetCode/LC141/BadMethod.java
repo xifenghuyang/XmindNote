@@ -4,7 +4,7 @@ package LeetCode.LC141;
  * 意外1：未考虑边界条件——head为空
  */
 
-public class badMethod {
+public class BadMethod {
     public boolean hasCycle(ListNode head) {
         // 方法一：遍历节点，设置超时。
         if(head==null) return false;
