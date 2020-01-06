@@ -18,7 +18,7 @@
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
 ```java
-class Solution {
+class LeetCode.LC84.Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         HashMap<Integer,Integer> numMap = new HashMap<>();
@@ -66,7 +66,7 @@ class Solution {
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class LeetCode.LC84.Solution {
     public ListNode reverseList(ListNode head) {
         ListNode pre = null;
         ListNode cur = head;
@@ -113,7 +113,7 @@ class Solution {
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class LeetCode.LC84.Solution {
     public ListNode swapPairs(ListNode head) {
         ListNode pre = new ListNode(0);
         pre.next = head;
