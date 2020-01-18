@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <!-- 模型版本。maven2.0必须是这样写，现在是maven2唯一支持的版本 -->
+    <modelVersion>4.0.0</modelVersion>
+    <!-- 公司或者组织的唯一标志 -->
+    <groupId>com.yq</groupId>
+    <!-- 项目的唯一ID，一个groupId下面可能多个项目-->
+    <artifactId>codeProject</artifactId>
+    <!-- 项目的版本号 -->
+    <version>1.0.0-SNAPSHOT</version>
+    <!-- 打包类型，如pom,jar, maven-plugin, ejb, war, ear, rar, par，默认为jar -->
+    <packaging>jar</packaging>
+    <!--项目一些信息，如项目名，描述，项目地址-->
+    <name>codeProject</name>
+    <!--父pom配置，子pom可继承父pom的groupId，version -->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.4.RELEASE</version>
+        <relativePath/>
+    </parent>
+    <!-- 为pom定义一些常量，在pom中的其它地方可以直接引用 -->
+    <properties>
+        <file.encoding>UTF-8</file.encoding>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.10</version>
+        </dependency>
+    </dependencies>
+
+</project>
