@@ -6,15 +6,18 @@ import java.util.Queue;
 import java.util.Stack;
 
 /**
- *  每日一题：单调递减双端队列
- *  保证每个元素的前面都没有比它小的元素。
+ * 每日一题：单调递减双端队列
+ * 保证每个元素的前面都没有比它小的元素。
+ * @author admin
  */
-public class LC0307 {
-    // 双端队列，头尾操作
+public class Lc0307 {
+    /**
+     * 双端队列，头尾操作
+     */
     Deque<Integer> maxQue;
     Queue<Integer> queue;
 
-    public LC0307() {
+    public Lc0307() {
         maxQue = new LinkedList<>();
         queue = new LinkedList<>();
     }
@@ -41,7 +44,7 @@ public class LC0307 {
     }
 
     public int pop_front() {
-        if(queue.isEmpty()){
+        if (queue.isEmpty()) {
             return -1;
         }
         if (queue.peek().compareTo(maxQue.peekFirst()) == 0) {
