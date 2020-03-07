@@ -1,4 +1,4 @@
-package com.yq.everyday;
+package com.yq.everyday.deque;
 
 import java.util.Deque;
 import java.util.LinkedList;
