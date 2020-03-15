@@ -1,6 +1,8 @@
 package com.yq.acwing;
 
 /*
+背包问题1--01背包
+https://www.cnblogs.com/jbelial/articles/2116074.html
 
 f[i][j] 表示只看前i件物品，总体积是j的情况下，总价值最大是多少。
 
@@ -18,26 +20,27 @@ f[0][0] = 0;
 保证正确结果只能从f[0]=0转移过来
 
 */
+
 import java.io.*;
 import java.util.*;
 
-public class Package1 {
+public class DpPackage01 {
     public static void main(String args[]) throws Exception {
-        Scanner cin=new Scanner(System.in);
+        Scanner cin = new Scanner(System.in);
         int a = cin.nextInt();
         int b = cin.nextInt();
         int[] V = new int[a + 1];
         int[] W = new int[a + 1];
-        for(int i = 1; i <= a; i ++){
+        for (int i = 1; i <= a; i++) {
             V[i] = cin.nextInt();
             W[i] = cin.nextInt();
             // System.out.println(V[i]+" "+W[i]);
         }
 
 
-        int[] map = new int[b+1];
-        for(int i = 1; i <= a; i ++){
-            for(int j = b; j >=V[i] ; j --){
+        int[] map = new int[b + 1];
+        for (int i = 1; i <= a; i++) {
+            for (int j = b; j >= V[i]; j--) {
                 // 为了保证j前面的lie不变
                 map[j] = Math.max(map[j], map[j - V[i]] + W[i]);
 
