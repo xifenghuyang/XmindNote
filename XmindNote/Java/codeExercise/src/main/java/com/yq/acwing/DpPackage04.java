@@ -1,5 +1,11 @@
 package com.yq.acwing;
+/*
+背包问题4--多重背包(二进制优化写法)
 
+复杂度
+个数 1000 * log(20000) * 20000 = 3 * 10^8
+
+*/
 
 import java.util.*;
 
